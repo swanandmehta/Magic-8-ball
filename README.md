@@ -1,6 +1,6 @@
 # stunning-disco
 
-### If you are my past/current/future teammate/teamlead/recruiter/PO/SM/whoever/whatever please ignore this repo
+### If you are my past/current/future teammate/teamlead/recruiter/PO/SM/people who know me IRL please ignore this repo
 Scroll down for importent stuff 
 
 ### THIS IS RANT IGNORE THIS PART... UNLESS YOU ARE INTO THAT THEN FEEL FREE MY DUDE trying to be gender nutural here.... 
