@@ -1,0 +1,9 @@
+<div class="ans-container">{{ans}}</div>
+<mat-form-field class="form-field" appearance="fill">
+    <mat-label>Please ask the question</mat-label>
+    <input matInput type="text" [(ngModel)]="question" (keydown.enter)="submit()">
+    <button *ngIf="question" matSuffix mat-icon-button aria-label="Clear" (click)="question=''">
+        <mat-icon>close</mat-icon>
+    </button>
+</mat-form-field>
+<button mat-raised-button color="primary" (click)="submit()" [disabled]="disabled">Shake That Ball</button>

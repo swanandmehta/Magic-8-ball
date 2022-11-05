@@ -1,0 +1,30 @@
+version: "3.7"
+services:
+ frontend: 
+  container_name: frontend
+  build: 
+   context: ./../FE
+   dockerfile: ./Dockerfile
+  ports:
+  - 9000:80
+  restart: unless-stopped
+ backend:
+  depends_on:
+  - database
+  container_name: backend
+  build: 
+   context: ./../BE
+   dockerfile: ./Dockerfile
+  ports:
+  - 8080:8080
+  restart: unless-stopped
+ database:
+  container_name: mongo
+  build: 
+   context: ./../DB
+   dockerfile: ./Dockerfile
+  volumes: 
+  - ./../DB/data:/data/db
+  ports:
+  - 27017:27017
+  restart: unless-stopped
