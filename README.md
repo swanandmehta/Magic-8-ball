@@ -1,8 +1,8 @@
 # stunning-disco
 
-# If you are my past/current/furure teammate/teamlead/recruiter/PO/SM/whoever/whatever please ignore this repo
+## If you are my past/current/future teammate/teamlead/recruiter/PO/SM/whoever/whatever please ignore this repo
 
-# THIS IS RANT IGNORE THIS PART... UNLESS YOU ARE INTO THAT THEN FEEL FREE MY DUDE trying to be gender nutural here.... 
+## THIS IS RANT IGNORE THIS PART... UNLESS YOU ARE INTO THAT THEN FEEL FREE MY DUDE trying to be gender nutural here.... 
 Today is 11 Nov 23 Morning/Afternoon my big plans to work on BD pipeline are in ruin :(
 
 since somewhere some dumb person revoked my access to AWS lab now I have nothing to do
