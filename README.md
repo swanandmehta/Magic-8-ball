@@ -1,8 +1,9 @@
 # stunning-disco
 
-## If you are my past/current/future teammate/teamlead/recruiter/PO/SM/whoever/whatever please ignore this repo
+### If you are my past/current/future teammate/teamlead/recruiter/PO/SM/whoever/whatever please ignore this repo
+Scroll down for importent stuff 
 
-## THIS IS RANT IGNORE THIS PART... UNLESS YOU ARE INTO THAT THEN FEEL FREE MY DUDE trying to be gender nutural here.... 
+### THIS IS RANT IGNORE THIS PART... UNLESS YOU ARE INTO THAT THEN FEEL FREE MY DUDE trying to be gender nutural here.... 
 Today is 11 Nov 23 Morning/Afternoon my big plans to work on BD pipeline are in ruin :(
 
 since somewhere some dumb person revoked my access to AWS lab now I have nothing to do
@@ -22,16 +23,16 @@ I KNOW I DONT NEED TO USE SPRING, ANGULAR AND WHATEVER THIS IS MY PROJECT AND YO
 The only reason i am writing this code so i could have my sanity back atleast for next few hours
 Once I sober up I will come back to "What the fuck am i doing with my life question"
 
-# This is importent shit
+### This is importent shit
 
 What the fuck is this repo ?
 Well its magic 8 ball (https://en.wikipedia.org/wiki/Magic_8_Ball)
 
 This is what i am gonna do 
-1. Setup Frontend using Angular
-2. Setup Backend using Spring boot
+1. Setup Frontend using Angular runs on 9000
+2. Setup Backend using Spring boot runs on 8080
 3. Save the question and provided ans in mongodb because why the fuck not ? Internet Privacy is a joke anyway
-4. Create Deployable env using docker
+4. Create Deployable env using docker you can find it under infra
 5. Question my life choices 
 6. PROFIT ?????
 
